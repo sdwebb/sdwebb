@@ -1,6 +1,6 @@
 Hi, I'm Stephen.
 
-I build models to describe complex systems, such as particle accelerators, or election forecasting. I also blog about data, science, and Python at [swebb.io](swebb.io)
+I build models to describe complex systems, such as particle accelerators, or election forecasting. I also blog about data, science, and Python at [swebb.io](https://www.swebb.io/)
 
 You can find my online resume [here](sdwebb.github.io)
 
