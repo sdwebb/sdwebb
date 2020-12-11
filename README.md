@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi, I'm Stephen.
+
+I build models to describe complex systems, such as particle accelerators, or election forecasting. I also blog about data, science, and Python at [swebb.io](swebb.io)
+
+You can find my online resume [here](sdwebb.github.io)
 
 <!--
 **sdwebb/sdwebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
