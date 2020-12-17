@@ -9,7 +9,9 @@ You can find my online resume [here](sdwebb.github.io)
 ### Skills & Expertise
 
 _Analysis_ — Beam & Plasma Physics, Linear Algebra, Multivariate Calculus, Mathematical Modeling, Probability, Statistics
+
 _Programming_ — Python, NumPy, SciPy, matplotlib, pandas, Keras, scikit-learn, GPFlow, numba, h5py
+
 _Technologies_ — Git, JupyterLab, Mac OS, PyCharm, SVN
 
 <!--
