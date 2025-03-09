@@ -1,18 +1,8 @@
-### About Me
+Hi, I'm Stephen - Physicist, Data Scientist, Jeopardy Champion, Part-time jetsetter, Full-time squirrel whisperer
 
-Hi, I'm Stephen.
+As a Principal Data Scientist at Microsoft's Industrial Solutions Engineering, helping our customers come up with the best solutions to their data-oriented challenges and standing them up on Azure.
 
-I build models to describe complex systems, such as particle accelerators, or election forecasting. I also blog about data, science, and Python at [swebb.io](https://www.swebb.io/)
-
-You can find my online resume [here](sdwebb.github.io) and my academic CV [here](https://drive.google.com/file/d/1AgI7MPPATyPi1ZK3sAVNip0SemTBszHH/view?usp=sharing).
-
-### Skills & Expertise
-
-_Analysis_ — Beam & Plasma Physics, Linear Algebra, Multivariate Calculus, Mathematical Modeling, Probability, Statistics
-
-_Programming_ — Python, NumPy, SciPy, matplotlib, pandas, Keras, scikit-learn, GPFlow, numba, h5py
-
-_Technologies_ — Git, JupyterLab, Mac OS, PyCharm, SVN
+All opinions expressed here are my own, and are not endorsed/approved/condoned by my employer. They're probably wrong, anyway.
 
 <!--
 **sdwebb/sdwebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
